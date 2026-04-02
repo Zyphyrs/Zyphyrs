@@ -170,19 +170,19 @@ const zyphyrs = {
 
 ---
 
+<img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" />
+
+---
+
 ### Random Dev Quote
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="70%" />
-
----
 
 ### Random Dev Joke
 
 <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" />
 
 ---
-
-<img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" />
 
 <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="100%" />
 
