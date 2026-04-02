@@ -6,6 +6,7 @@
 
 <br>
 
+<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="40" /> &nbsp;
 [![Followers](https://img.shields.io/github/followers/Zyphyrs?label=Followers&style=for-the-badge&color=1f6feb&labelColor=0d1117)](https://github.com/Zyphyrs)
 [![Stars](https://img.shields.io/github/stars/Zyphyrs?label=Stars&style=for-the-badge&color=1f6feb&labelColor=0d1117)](https://github.com/Zyphyrs)
 [![Views](https://komarev.com/ghpvc/?username=Zyphyrs&color=1f6feb&style=for-the-badge&label=Views)](https://github.com/Zyphyrs)
@@ -168,6 +169,20 @@ const zyphyrs = {
 [![zyp-core](https://img.shields.io/badge/zyp--core-EA4B71?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/zyp-core)
 
 ---
+
+### Random Dev Quote
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="70%" />
+
+---
+
+### Random Dev Joke
+
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" />
+
+---
+
+<img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" />
 
 <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="100%" />
 
