@@ -1,181 +1,82 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Zyphyrs&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=&descSize=1" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=200&section=header&text=Zyphyrs&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=33" width="100%" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1F6FEB&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Full-Stack+Developer+%7C+AI+Automation+%7C+Web3;Building+intelligent+systems+and+bots" alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=500&height=45&lines=Full-Stack+Developer;AI+%26+Automation+Engineer;Web3+%26+NFT+Builder;Discord+Bot+Developer)](https://git.io/typing-svg)
 
-<br>
-
-[![GitHub followers](https://img.shields.io/github/followers/Zyphyrs?label=Followers&style=for-the-badge&color=1f6feb&labelColor=0d1117)](https://github.com/Zyphyrs)
-[![GitHub stars](https://img.shields.io/github/stars/Zyphyrs?label=Stars&style=for-the-badge&color=1f6feb&labelColor=0d1117)](https://github.com/Zyphyrs)
-[![Profile Views](https://komarev.com/ghpvc/?username=Zyphyrs&color=1f6feb&style=for-the-badge&label=Profile+Views)](https://github.com/Zyphyrs)
-
-</div>
+[![Followers](https://img.shields.io/github/followers/Zyphyrs?label=Followers&style=for-the-badge&color=1f6feb&labelColor=0d1117)](https://github.com/Zyphyrs)
+[![Stars](https://img.shields.io/github/stars/Zyphyrs?label=Stars&style=for-the-badge&color=1f6feb&labelColor=0d1117)](https://github.com/Zyphyrs)
+[![Views](https://komarev.com/ghpvc/?username=Zyphyrs&color=1f6feb&style=for-the-badge&label=Views)](https://github.com/Zyphyrs)
 
 ---
 
-<div align="center">
+### `> whoami`
 
-### About Me
-
-</div>
-
-```yaml
-name: Zyphyrs
-location: Philippines
-focus:
-  - AI Agents & Workflow Automation
-  - Web3, NFTs & Smart Contracts (Solana, EVM)
-  - Discord Bots with Web3 Integration
-  - Full-Stack Web Applications
-currently_building:
-  - AI-powered automation systems
-  - Generative NFT collections
-  - Multi-platform content pipelines
+```js
+const zyphyrs = {
+    location: "Philippines",
+    focus: ["AI Agents", "Web3 & NFTs", "Discord Bots", "Full-Stack"],
+    building: ["Automation systems", "Generative NFTs", "Content pipelines"],
+    stack: ["TypeScript", "Python", "Solidity", "React", "Node.js"],
+};
 ```
 
 ---
 
-<div align="center">
-
-### Tech Stack
-
-**Languages**
+### Languages
 
 <p>
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=js,ts,python,solidity,bash&theme=dark" />
-</a>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,solidity,bash&theme=dark" />
 </p>
 
-**Frontend & Frameworks**
+### Frontend & Frameworks
 
 <p>
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,threejs,tailwind&theme=dark" />
-</a>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,threejs,tailwind&theme=dark" />
 </p>
 
-**Platforms & Blockchain**
+### Tools & Infrastructure
 
 <p>
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=discord,solana,ethereum,docker,vercel&theme=dark" />
-</a>
+  <img src="https://skillicons.dev/icons?i=discord,docker,vercel,linux,git&theme=dark" />
 </p>
 
-**Infrastructure & Tools**
+### Databases
 
 <p>
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=linux,git,mongodb,postgres,vscode&theme=dark" />
-</a>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres&theme=dark" />
 </p>
 
-</div>
+### Blockchain & Web3
+
+![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 
 ---
-
-<div align="center">
 
 ### What I Build
 
-<table>
-<tr>
-<td align="center" width="25%">
-<br>
-<img width="40" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" />
-<br><br>
-<b>AI & Automation</b>
-<br>
-<sub>Intelligent agents<br>Workflow automation<br>n8n pipelines</sub>
-<br><br>
-</td>
-<td align="center" width="25%">
-<br>
-<img width="40" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" />
-<br><br>
-<b>Web3 & NFTs</b>
-<br>
-<sub>Smart contracts<br>Generative art<br>Solana & EVM</sub>
-<br><br>
-</td>
-<td align="center" width="25%">
-<br>
-<img width="40" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Joystick.png" />
-<br><br>
-<b>Discord Bots</b>
-<br>
-<sub>Web3 integration<br>Tracking systems<br>Premium tiers</sub>
-<br><br>
-</td>
-<td align="center" width="25%">
-<br>
-<img width="40" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" />
-<br><br>
-<b>Full-Stack</b>
-<br>
-<sub>React & Next.js<br>Three.js & 3D<br>Modern web apps</sub>
-<br><br>
-</td>
-</tr>
-</table>
-
-</div>
+| | | | |
+|:---:|:---:|:---:|:---:|
+| **AI & Automation** | **Web3 & NFTs** | **Discord Bots** | **Full-Stack** |
+| Intelligent agents | Smart contracts | Web3 integration | React & Next.js |
+| Workflow automation | Generative art | Tracking systems | Three.js & 3D |
+| n8n pipelines | Solana & EVM | Premium tiers | Modern web apps |
 
 ---
-
-<div align="center">
-
-### GitHub Trophy
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Zyphyrs&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-<div align="center">
 
 ### Organizations
 
-<table>
-<tr>
-<td align="center" width="25%">
-<a href="https://github.com/zyp-bots">
-<img src="https://img.shields.io/badge/zyp--bots-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-</a>
-<br><sub>Discord Bots</sub>
-</td>
-<td align="center" width="25%">
-<a href="https://github.com/zyp-web3">
-<img src="https://img.shields.io/badge/zyp--web3-9945FF?style=for-the-badge&logo=ethereum&logoColor=white" />
-</a>
-<br><sub>NFT & Crypto</sub>
-</td>
-<td align="center" width="25%">
-<a href="https://github.com/zyp-sites">
-<img src="https://img.shields.io/badge/zyp--sites-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-<br><sub>Web Projects</sub>
-</td>
-<td align="center" width="25%">
-<a href="https://github.com/zyp-core">
-<img src="https://img.shields.io/badge/zyp--core-EA4B71?style=for-the-badge&logo=openai&logoColor=white" />
-</a>
-<br><sub>AI Ecosystem</sub>
-</td>
-</tr>
-</table>
-
-</div>
+[![zyp-bots](https://img.shields.io/badge/zyp--bots-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://github.com/zyp-bots)
+[![zyp-web3](https://img.shields.io/badge/zyp--web3-9945FF?style=for-the-badge&logo=ethereum&logoColor=white)](https://github.com/zyp-web3)
+[![zyp-sites](https://img.shields.io/badge/zyp--sites-06B6D4?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/zyp-sites)
+[![zyp-core](https://img.shields.io/badge/zyp--core-EA4B71?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/zyp-core)
 
 ---
 
-<div align="center">
 <sub>Turning ideas into code since 2022</sub>
-<br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=100&section=footer" width="100%" />
 
 </div>
