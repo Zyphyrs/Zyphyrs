@@ -169,7 +169,7 @@ const zyphyrs = {
 
 ---
 
-<sub>Turning ideas into code since 2022</sub>
+<img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="100%" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=100&section=footer" width="100%" />
 
