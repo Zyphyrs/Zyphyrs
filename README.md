@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&text=Zyphyrs&fontSize=70&fontColor=ffffff&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&text=Zyphyrs&fontSize=60&fontColor=ffffff&animation=twinkling&stroke=58a6ff&strokeWidth=1" width="100%" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=550&height=45&lines=Full-Stack+Developer;AI+%26+Automation+Engineer;Web3+%26+NFT+Builder;Discord+Bot+Developer;Always+shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
 
@@ -115,11 +115,11 @@ const zyphyrs = {
 <br>Bash
 </td>
 <td align="center" width="96">
-<img src="https://img.shields.io/badge/Solana-000?style=flat&logo=solana&logoColor=9945FF" width="48" height="48" alt="Solana" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solana-colored.svg" width="48" height="48" alt="Solana" />
 <br>Solana
 </td>
 <td align="center" width="96">
-<img src="https://img.shields.io/badge/ETH-000?style=flat&logo=ethereum&logoColor=white" width="48" height="48" alt="Ethereum" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="48" height="48" alt="Ethereum" />
 <br>Ethereum
 </td>
 <td align="center" width="96">
